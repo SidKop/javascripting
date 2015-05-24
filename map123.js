@@ -13,3 +13,4 @@ module.exports = doubleAll
 }
 
 // does this work
+//how to redo this to include map
