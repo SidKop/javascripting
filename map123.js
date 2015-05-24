@@ -11,3 +11,5 @@
 foo = doubleAll.PROTOTYPE.map( double ) ;
 module.exports = doubleAll
 }
+
+// does this work
