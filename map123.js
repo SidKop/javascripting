@@ -1,16 +1,12 @@
- function doubleAll(numbers) {
-
-  	double = function (num){
-  	return num * 2;
-
-  		//var doubles = numbers.map(function(num) {
-  		//return num * 2;
-
-}
-
-foo = doubleAll.PROTOTYPE.map( double ) ;
-module.exports = doubleAll
-}
 
 
-// diff
+
+    function doubleAll(numbers) {
+      var result = []
+      for (var i = 0; i < numbers.length; i++) {
+        result.push(numbers[i] * 2)
+      }
+      return result
+    }
+
+    module.exports = doubleAll
