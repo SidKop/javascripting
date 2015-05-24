@@ -12,5 +12,5 @@ foo = doubleAll.PROTOTYPE.map( double ) ;
 module.exports = doubleAll
 }
 
-// does this work
-//how to redo this to include map
+
+// diff
