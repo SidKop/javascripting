@@ -5,3 +5,6 @@ ejog
 we
 
 some more text
+some extra tty.WriteStream(fd);
+ console.log("testing");
+ 
