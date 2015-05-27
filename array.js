@@ -7,8 +7,6 @@ function getShortMessages(messages) {
 
 module.exports = getShortMessages
 
-// testing//new
-
 // test
 // function getShortMessages(messages) {
 //   var filtered_messages = messages.filter(function(message) {
